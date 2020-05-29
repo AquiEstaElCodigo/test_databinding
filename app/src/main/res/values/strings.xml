@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">test_databinding</string>
+    <string name="nombre">nombre</string>
+    <string name="edad">edad</string>
+    <string name="email">email</string>
+    <string name="altura">altura</string>
+    <string name="peso">peso</string>
+    <string name="cambiar_activity">Cambiar Activity</string>
+    <string name="cambiar_activity_db">Cambiar Activity DB</string>
+</resources>
